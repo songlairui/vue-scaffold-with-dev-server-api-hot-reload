@@ -33,3 +33,5 @@ add devServer#before configuration
 [server.js](./server.js)  
 place require in the middleware  
 reach hot reload with delete require.cache
+
+Anti 996 License Version 1.0 (Draft)
