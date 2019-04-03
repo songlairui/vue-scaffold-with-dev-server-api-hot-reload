@@ -34,4 +34,8 @@ add devServer#before configuration
 place require in the middleware  
 reach hot reload with delete require.cache
 
+## To Be
+
+- [ ] an example for **Architectural visualization**
+
 Anti 996 License Version 1.0 (Draft)
